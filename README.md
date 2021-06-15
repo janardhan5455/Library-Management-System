@@ -1,5 +1,5 @@
 # Library-Management-System
-This is simple library management system using python and MySQL
+This is simple library management application using python and MySQL
 
 # Requirements
 tkinter – Please run below command to install tkinter
